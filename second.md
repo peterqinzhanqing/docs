@@ -1,8 +1,8 @@
 # good morning
->hello
->world
->test
-**bold**
-*italic*
-~~delete
+> hello
+> world
+> test
+** bold **
+* italic *
+~~ delete
 ## i am ok!
