@@ -1,5 +1,8 @@
-#good morning
+# good morning
 >hello
 >world
->>test
+>test
+**bold**
+*italic*
+~~delete
 ## i am ok!
